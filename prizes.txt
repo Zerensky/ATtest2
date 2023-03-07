@@ -1,0 +1,5 @@
+ID: 1 Car "Lightning McQueen" Count: 1 Chance to get: 25
+ID: 2 Soft toy "Cheburashka" Count: 1 Chance to get: 50
+ID: 3 Doll "Barbie" Count: 1 Chance to get: 70
+ID: 1 Soft toy "Cheburashka" Count: 1 Chance to get: 20
+ID: 1 Car "Formula-1" Count: 1 Chance to get: 30
